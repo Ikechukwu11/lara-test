@@ -5,7 +5,7 @@ Blog Posts
 
 @section('content')
 @foreach ($posts as $post )
-<div class"col-12">
+<div class="col-12 my-5">
   <article>
   <h1>
     <a href="posts/{{$post->slug}}">
