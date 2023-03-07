@@ -8,7 +8,7 @@
   <article>
   <h1>{{$post->title}}</h1>
   <div>
-    {{$post->body}}
+    {!! $post->body !!}
   </div>
   <a href="/posts">Go Back</a>
 </article>
