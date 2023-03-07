@@ -1,0 +1,17 @@
+body {
+  background: whitesmoke;
+  color: #141414;
+  font-family: Sans-Serif;
+  margin: auto;
+}
+
+p {
+  line-height: 1.6;
+}
+
+article + article {
+  border-top: 1px solid #eee;
+}
+article {
+  padding: 1rem 2rem;
+}
