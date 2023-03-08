@@ -13,6 +13,7 @@ Blog Posts
     </a>
   </h1>
   <div>
+    <span><i class="fas fa-clock" style="color:teal"></i> {{date('Y-m-d', $post->date)}}</span><br>
     {{$post->excerpt}}
     <div>
     </article>

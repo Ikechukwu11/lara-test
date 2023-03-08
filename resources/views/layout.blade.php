@@ -14,6 +14,11 @@
   />
   <link rel="icon" type="image/x-icon" href="/favicon.ico"/>
   <link rel="stylesheet" href="/css/mdb.min.css">
+  <style>
+    a{
+      color: teal;
+    }
+  </style>
 </head>
 
 <body>
